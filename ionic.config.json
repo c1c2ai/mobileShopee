@@ -1,0 +1,8 @@
+{
+  "name": "mobileShopee",
+  "app_id": "0dd7b376",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
